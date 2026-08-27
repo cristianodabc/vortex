@@ -1,0 +1,44 @@
+{
+  "MRData": {
+    "series": "f1",
+    "limit": "100",
+    "offset": "0",
+    "total": "1",
+    "RaceTable": {
+      "season": "2024",
+      "round": "1",
+      "Races": [
+        {
+          "season": "2024",
+          "round": "1",
+          "raceName": "Bahrain Grand Prix",
+          "Results": [
+            {
+              "number": "1",
+              "position": "1",
+              "points": "26",
+              "Driver": {
+                "driverId": "max_verstappen",
+                "permanentNumber": "3",
+                "code": "VER",
+                "givenName": "Max",
+                "familyName": "Verstappen",
+                "nationality": "Dutch"
+              },
+              "Constructor": {
+                "constructorId": "red_bull",
+                "name": "Red Bull",
+                "nationality": "Austrian"
+              },
+              "grid": "1",
+              "laps": "57",
+              "status": "Finished",
+              "Time": {"time": "1:31:44.742"},
+              "FastestLap": {"rank": "1", "Time": {"time": "1:32.608"}}
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

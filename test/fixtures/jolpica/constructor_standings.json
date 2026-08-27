@@ -1,0 +1,29 @@
+{
+  "MRData": {
+    "series": "f1",
+    "limit": "100",
+    "offset": "0",
+    "total": "1",
+    "StandingsTable": {
+      "season": "2024",
+      "StandingsLists": [
+        {
+          "season": "2024",
+          "round": "24",
+          "ConstructorStandings": [
+            {
+              "position": "1",
+              "points": "666",
+              "wins": "6",
+              "Constructor": {
+                "constructorId": "mclaren",
+                "name": "McLaren",
+                "nationality": "British"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

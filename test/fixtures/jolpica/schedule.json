@@ -1,0 +1,32 @@
+{
+  "MRData": {
+    "series": "f1",
+    "limit": "100",
+    "offset": "0",
+    "total": "1",
+    "RaceTable": {
+      "season": "2024",
+      "Races": [
+        {
+          "season": "2024",
+          "round": "1",
+          "raceName": "Bahrain Grand Prix",
+          "Circuit": {
+            "circuitId": "bahrain",
+            "circuitName": "Bahrain International Circuit",
+            "Location": {
+              "locality": "Sakhir",
+              "country": "Bahrain"
+            }
+          },
+          "date": "2024-03-02",
+          "time": "15:00:00Z",
+          "FirstPractice": {"date": "2024-02-29", "time": "11:30:00Z"},
+          "SecondPractice": {"date": "2024-02-29", "time": "15:00:00Z"},
+          "ThirdPractice": {"date": "2024-03-01", "time": "12:30:00Z"},
+          "Qualifying": {"date": "2024-03-01", "time": "16:00:00Z"}
+        }
+      ]
+    }
+  }
+}

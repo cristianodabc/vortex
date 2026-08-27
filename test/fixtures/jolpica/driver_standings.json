@@ -1,0 +1,39 @@
+{
+  "MRData": {
+    "series": "f1",
+    "limit": "100",
+    "offset": "0",
+    "total": "1",
+    "StandingsTable": {
+      "season": "2024",
+      "StandingsLists": [
+        {
+          "season": "2024",
+          "round": "24",
+          "DriverStandings": [
+            {
+              "position": "1",
+              "points": "437",
+              "wins": "9",
+              "Driver": {
+                "driverId": "max_verstappen",
+                "permanentNumber": "3",
+                "code": "VER",
+                "givenName": "Max",
+                "familyName": "Verstappen",
+                "nationality": "Dutch"
+              },
+              "Constructors": [
+                {
+                  "constructorId": "red_bull",
+                  "name": "Red Bull",
+                  "nationality": "Austrian"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
